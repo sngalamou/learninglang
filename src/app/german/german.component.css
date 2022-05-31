@@ -1,0 +1,10 @@
+p{
+    text-transform: capitalize;
+}
+
+span {
+    font-weight: bold;
+    background: lightgray;
+    padding: .1em .2em;
+    cursor: pointer;
+}
